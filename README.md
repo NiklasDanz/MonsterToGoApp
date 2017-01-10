@@ -4,6 +4,7 @@ Uses animations, audio effects and background music. Programmed only with UIKit 
 
 <p align="center">
   <img src="https://github.com/NiklasDanz/MonsterToGoApp/blob/master/Simulator%20Screen%20Shot%2010.01.2017%2C%2014.00.20.png" width="250"/>
+  img src="https://github.com/NiklasDanz/MonsterToGoApp/blob/master/Simulator%20Screen%20Shot%2010.01.2017%2C%2014.00.24.png" width="250"/>
 </p>
 
 ## How to play
