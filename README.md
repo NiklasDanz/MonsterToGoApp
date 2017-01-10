@@ -10,6 +10,4 @@ Uses animations, audio effects and background music. Programmed only with UIKit 
 </p>
 
 ## How to play
-You know nothing about how it feels like to be a monster! People call you ugly and are scared of you.
-Therefor I thought I should make an app for you to give something back. It's pretty easy:
-The monster needs to be fed and happy. To play, just drag some food and hearts onto it. If you frequently do so, the monster will survive. If you stop, it will lose health points and die.
+The monster needs to be fed and happy. To play, just drag some food and hearts onto it. If you frequently do so, the monster will survive. If you stop, it will lose health points and die. Pretty easy, huh?
